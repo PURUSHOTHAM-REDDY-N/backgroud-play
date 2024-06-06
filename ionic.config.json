@@ -1,0 +1,7 @@
+{
+  "name": "background-ionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
